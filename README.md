@@ -133,7 +133,6 @@ Seis telas principais no Power BI:
 - **Análise de coorte:** Comportamento por grupo de aquisição
 - **RFM (Recency, Frequency, Monetary):** Segmentação por valor
 - **Churn prediction:** Identificação de clientes em risco de abandono
-- **Cross-selling e Up-selling:** Produtos frequentemente comprados juntos
 - **Sazonalidade por cliente:** Padrões de compra individuais ao longo do ano
 
 ### 🎯 Otimizações Operacionais
